@@ -1,0 +1,11 @@
+{
+  "name": "rtchandler",
+  "version": "1.0.0",
+  "description": "Custom framework for WebRTC Communication and streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Owl Digital Design",
+  "license": "MIT"
+}
